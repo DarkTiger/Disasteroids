@@ -1,0 +1,18 @@
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\SpaceAdventure\SpaceAdventure\bin\SpaceAdventure.dll.config
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\SpaceAdventure\SpaceAdventure\bin\SpaceAdventure.dll
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\SpaceAdventure\SpaceAdventure\bin\SpaceAdventure.pdb
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\SpaceAdventure\SpaceAdventure\obj\Release\SpaceAdventure.dll
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\SpaceAdventure\SpaceAdventure\obj\Release\SpaceAdventure.pdb
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\SpaceAdventure\SpaceAdventure\obj\Release\SpaceAdventure.csprojResolveAssemblyReference.cache
+C:\Users\Daniele\Desktop\SpaceAdventure\SpaceAdventure\bin\SpaceAdventure.dll.config
+C:\Users\Daniele\Desktop\SpaceAdventure\SpaceAdventure\bin\SpaceAdventure.dll
+C:\Users\Daniele\Desktop\SpaceAdventure\SpaceAdventure\bin\SpaceAdventure.pdb
+C:\Users\Daniele\Desktop\SpaceAdventure\SpaceAdventure\obj\Release\SpaceAdventure.csprojResolveAssemblyReference.cache
+C:\Users\Daniele\Desktop\SpaceAdventure\SpaceAdventure\obj\Release\SpaceAdventure.dll
+C:\Users\Daniele\Desktop\SpaceAdventure\SpaceAdventure\obj\Release\SpaceAdventure.pdb
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\Disasteroid - Daniele Franceschini\SpaceAdventure\bin\SpaceAdventure.dll.config
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\Disasteroid - Daniele Franceschini\SpaceAdventure\bin\SpaceAdventure.dll
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\Disasteroid - Daniele Franceschini\SpaceAdventure\bin\SpaceAdventure.pdb
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\Disasteroid - Daniele Franceschini\SpaceAdventure\obj\Release\SpaceAdventure.dll
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\Disasteroid - Daniele Franceschini\SpaceAdventure\obj\Release\SpaceAdventure.pdb
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\Disasteroid - Daniele Franceschini\SpaceAdventure\obj\Release\SpaceAdventure.csprojResolveAssemblyReference.cache
